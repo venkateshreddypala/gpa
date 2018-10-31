@@ -7,3 +7,4 @@ Feel free to map accroding to your current GPA and Cirriculum.
 
 This might help others while taking a decision.
 
+To run the script "python3 gpa.py"
